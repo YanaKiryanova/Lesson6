@@ -1,4 +1,6 @@
-package org.example;
+package lesson61;
+
+import lesson61.CreditCard;
 
 public class Main {
     public static void main(String[] args) {
